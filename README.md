@@ -1,6 +1,6 @@
 # Hey, I'm Smriti 👋
 
-ECE undergrad at NIT Jamshedpur building toward ML engineering — one project at a time.
+ECE undergrad at NIT Jamshedpur building toward AI - ML engineering — one project at a time.
 
 ---
 
