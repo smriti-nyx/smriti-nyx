@@ -1,6 +1,7 @@
 # Hey, I'm Smriti 👋
 
 ECE undergrad at NIT Jamshedpur building toward AI - ML engineering — one project at a time.
+![Profile Views](https://komarev.com/ghpvc/?username=smriti-nyx&color=blueviolet&style=flat)
 
 ---
 
